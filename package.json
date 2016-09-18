@@ -1,0 +1,25 @@
+{
+  "name": "command-line-journal",
+  "version": "1.0.0",
+  "description": "A Bonsai project! Creating a journal that can be used from the command line!",
+  "main": "./app/index.js",
+  "bin": {
+    "journal": "./app/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdpwilliams/command-line-journal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdpwilliams/command-line-journal/issues"
+  },
+  "homepage": "https://github.com/mdpwilliams/command-line-journal#readme",
+  "dependencies": {
+    "commander": "^2.9.0"
+  }
+}
