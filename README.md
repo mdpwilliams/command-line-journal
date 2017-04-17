@@ -1,6 +1,8 @@
 # command-line-journal
 
-A Bonsai project! Creating a journal that can be used from the command line!
+A Bonsai project! Creating a journal that can be used from the command line! 
+
+Inspired by Bullet Journeling, wanted to help automate the process.
 
 ## To-do
 
